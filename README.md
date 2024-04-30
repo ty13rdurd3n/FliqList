@@ -1,3 +1,3 @@
 # FliqList
 
-A Movie Watchlist
+A Movie Watchlist App
