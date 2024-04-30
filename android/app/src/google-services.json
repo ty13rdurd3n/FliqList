@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944133227436",
+    "firebase_url": "https://fliqlist-e1ffa-default-rtdb.firebaseio.com",
+    "project_id": "fliqlist-e1ffa",
+    "storage_bucket": "fliqlist-e1ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944133227436:android:822c08a636e21a11303009",
+        "android_client_info": {
+          "package_name": "com.example.fliqlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944133227436-8cajiop5dt4qqpso665ce4muvu0qdc1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQf2JYeyif1mEiKzv7QwYVZOn67CiV6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944133227436-8cajiop5dt4qqpso665ce4muvu0qdc1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
